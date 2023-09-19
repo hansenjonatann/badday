@@ -31,3 +31,7 @@ body {
   border-radius: 5px;
   cursor: pointer;
 }
+
+.text-heading {
+  color: red;
+}
